@@ -53,6 +53,11 @@ overflow: hidden;
     h1 {
         font-size: 18vw;
     }
+    .main {
+        animation: none;
+        background-position: right;
+        background-image: url('https://cdn.discordapp.com/attachments/831582032953868303/896029788622426142/Remini20210926123931875.jpg');
+    }
 } 
 
 @keyframes backgroundChanger  {
